@@ -1,0 +1,121 @@
+
+body {
+  background-color: #f0ffff;
+}
+
+main {
+  margin: 20px;
+  padding: 20px;
+}
+
+p {
+  font-family: "Merriweather", serif;
+  margin: 20px;
+  padding: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+h3 {
+  font-family: cursive, serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 200;
+  font-family: fantasy, serif;
+}
+
+.caffe_name {
+  font-weight: bold;
+  color: #8a0d57;
+}
+
+.important_word_description {
+  font-style: italic;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+}
+
+/* caffetteria andrea start  */
+.caffetteria_andrea {
+  background-color: #f0fff0;
+  width: 50%;
+  text-align: center;
+  margin-bottom: -10%;
+  border: solid black;
+}
+
+.caffetteria_andrea > h2 {
+  font-size: 30px;
+  font-weight: 200;
+  font-family: fantasy, serif;
+  color: #087911;
+}
+.caffetteria_andrea > img {
+  width: 70%;
+  height: auto;
+}
+
+.title {
+  color: #af1f0f;
+  text-align: center;
+  border-bottom: 2px solid black;
+  font-size: 50px;
+  font-weight: 200;
+  font-family: fantasy, serif;
+}
+/* caffetteria andrea  end */
+
+/* bottega del caffe start  */
+
+.bottega_del_caffe {
+  background-color: #fafad2;
+  width: 50%;
+  float: right;
+  margin-top: -5%;
+  text-align: center;
+  border: solid black;
+  margin-right: 20px;
+}
+
+.bottega_del_caffe > h2 {
+  font-size: 30px;
+  font-weight: 200;
+  font-family: fantasy, serif;
+  color: #465205;
+}
+
+.bottega_del_caffe > img {
+  width: 70%;
+  height: auto;
+}
+
+/* bottega del caffe end  */
+
+/* Rigoletto caffe start  */
+
+.rigoletto_cafe {
+  background-color: #f0fff0;
+  width: 50%;
+  text-align: center;
+  margin-top: 30%;
+  border: solid black;
+}
+
+.rigoletto_cafe > h2 {
+  font-size: 30px;
+  font-weight: 200;
+  font-family: fantasy, serif;
+  color: #087911;
+}
+
+.rigoletto_cafe > img {
+  width: 70%;
+  height: auto;
+}
+
+/* Rigoletto caffe end  */
