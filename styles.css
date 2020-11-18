@@ -6,6 +6,7 @@ body {
 main {
   margin: 20px;
   padding: 20px;
+  max-width: 100%;
 }
 
 p {
@@ -20,11 +21,6 @@ h3 {
   font-family: cursive, serif;
 }
 
-h2 {
-  font-size: 30px;
-  font-weight: 200;
-  font-family: fantasy, serif;
-}
 
 .caffe_name {
   font-weight: bold;
@@ -40,6 +36,17 @@ a {
   padding: 10px;
 }
 
+
+.title {
+  color: #af1f0f;
+  text-align: center;
+  border-bottom: 2px solid black;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: fantasy, serif;
+}
+
+
 /* caffetteria andrea start  */
 .caffetteria_andrea {
   background-color: #f0fff0;
@@ -51,7 +58,7 @@ a {
 
 .caffetteria_andrea > h2 {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: bold;
   font-family: fantasy, serif;
   color: #087911;
 }
@@ -60,14 +67,7 @@ a {
   height: auto;
 }
 
-.title {
-  color: #af1f0f;
-  text-align: center;
-  border-bottom: 2px solid black;
-  font-size: 50px;
-  font-weight: 200;
-  font-family: fantasy, serif;
-}
+
 /* caffetteria andrea  end */
 
 /* bottega del caffe start  */
@@ -84,7 +84,7 @@ a {
 
 .bottega_del_caffe > h2 {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: bold;
   font-family: fantasy, serif;
   color: #465205;
 }
@@ -108,7 +108,7 @@ a {
 
 .rigoletto_cafe > h2 {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: bold;
   font-family: fantasy, serif;
   color: #087911;
 }
@@ -118,4 +118,4 @@ a {
   height: auto;
 }
 
-/* Rigoletto caffe end  */
+Rigoletto caffe end 
